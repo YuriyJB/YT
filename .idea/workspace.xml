@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="WD-186 Add notification center 123">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <list id="44973b48-cd56-48be-8b32-f4c6b1d3470b" name="Changes" comment="WD-286" />
     <list id="365d656f-2d9f-49dc-bec8-d1a6bf128ace" name="WD-286 New Research" comment="WD-286 New Research 123" />
@@ -39,6 +39,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/README.md" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -92,8 +95,8 @@
       <option name="number" value="186" />
       <option name="presentableId" value="WD-186" />
       <option name="project" value="WD" />
-      <updated>1709046668700</updated>
-      <workItem from="1709046669332" duration="174000" />
+      <updated>1709046887062</updated>
+      <workItem from="1709046669332" duration="642000" />
     </task>
     <option name="createBranch" value="false" />
     <servers>
@@ -110,7 +113,9 @@
     <MESSAGE value="WD-286 New Research" />
     <MESSAGE value="WD-286 New Research 1" />
     <MESSAGE value="WD-286 New Research 123" />
-    <option name="LAST_COMMIT_MESSAGE" value="WD-286 New Research 123" />
+    <MESSAGE value="WD-186 Add notification center" />
+    <MESSAGE value="WD-186 Add notification center 123" />
+    <option name="LAST_COMMIT_MESSAGE" value="WD-186 Add notification center 123" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
