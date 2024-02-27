@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="WD-186 Add notification center 123">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="WD-186 Modified the file" />
     <list id="44973b48-cd56-48be-8b32-f4c6b1d3470b" name="Changes" comment="WD-286" />
     <list id="365d656f-2d9f-49dc-bec8-d1a6bf128ace" name="WD-286 New Research" comment="WD-286 New Research 123" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,8 +93,8 @@
       <option name="number" value="186" />
       <option name="presentableId" value="WD-186" />
       <option name="project" value="WD" />
-      <updated>1709046887062</updated>
-      <workItem from="1709046669332" duration="642000" />
+      <updated>1709047330759</updated>
+      <workItem from="1709046669332" duration="1278000" />
     </task>
     <option name="createBranch" value="false" />
     <servers>
@@ -115,7 +113,8 @@
     <MESSAGE value="WD-286 New Research 123" />
     <MESSAGE value="WD-186 Add notification center" />
     <MESSAGE value="WD-186 Add notification center 123" />
-    <option name="LAST_COMMIT_MESSAGE" value="WD-186 Add notification center 123" />
+    <MESSAGE value="WD-186 Modified the file" />
+    <option name="LAST_COMMIT_MESSAGE" value="WD-186 Modified the file" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
