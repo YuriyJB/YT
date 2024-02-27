@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="365d656f-2d9f-49dc-bec8-d1a6bf128ace" name="WD-286 New Research" comment="WD-286 New Research 1" />
+    <list default="true" id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <list id="44973b48-cd56-48be-8b32-f4c6b1d3470b" name="Changes" comment="WD-286" />
+    <list id="365d656f-2d9f-49dc-bec8-d1a6bf128ace" name="WD-286 New Research" comment="WD-286 New Research 123" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,13 +21,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "YuriyJB"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YuriyJB&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -32,6 +36,9 @@
         <option name="url" value="https://github.com/YuriyJB/YT.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/README.md" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -41,21 +48,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="Default" summary="Default task">
@@ -66,7 +73,7 @@
       <updated>1709045866838</updated>
       <workItem from="1709045618059" duration="249000" />
     </task>
-    <task active="true" id="WD-286" summary="New Research">
+    <task id="WD-286" summary="New Research">
       <changelist id="365d656f-2d9f-49dc-bec8-d1a6bf128ace" name="WD-286 New Research" comment="" />
       <created>1707315126679</created>
       <option name="issue" value="true" />
@@ -74,8 +81,19 @@
       <option name="number" value="286" />
       <option name="presentableId" value="WD-286" />
       <option name="project" value="WD" />
-      <updated>1709046229895</updated>
-      <workItem from="1709045867800" duration="510000" />
+      <updated>1709046668699</updated>
+      <workItem from="1709045867800" duration="800000" />
+    </task>
+    <task active="true" id="WD-186" summary="Add notification center">
+      <changelist id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="" />
+      <created>1664545081301</created>
+      <option name="issue" value="true" />
+      <url>https://bigsur.youtrack.cloud/issue/WD-186</url>
+      <option name="number" value="186" />
+      <option name="presentableId" value="WD-186" />
+      <option name="project" value="WD" />
+      <updated>1709046668700</updated>
+      <workItem from="1709046669332" duration="174000" />
     </task>
     <option name="createBranch" value="false" />
     <servers>
@@ -91,7 +109,8 @@
     <MESSAGE value="WD-286" />
     <MESSAGE value="WD-286 New Research" />
     <MESSAGE value="WD-286 New Research 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="WD-286 New Research 1" />
+    <MESSAGE value="WD-286 New Research 123" />
+    <option name="LAST_COMMIT_MESSAGE" value="WD-286 New Research 123" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
