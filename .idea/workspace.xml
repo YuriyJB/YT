@@ -96,9 +96,13 @@
       <option name="number" value="186" />
       <option name="presentableId" value="WD-186" />
       <option name="project" value="WD" />
-      <updated>1709226661495</updated>
+      <option name="type" value="FEATURE" />
+      <updated>1709915658711</updated>
       <workItem from="1709046669332" duration="1917000" />
-      <workItem from="1709225129638" duration="1024000" />
+      <workItem from="1709225129638" duration="1679000" />
+      <workItem from="1709304128060" duration="628000" />
+      <workItem from="1709637846082" duration="621000" />
+      <workItem from="1709913213517" duration="599000" />
     </task>
     <option name="createBranch" value="false" />
     <servers>
