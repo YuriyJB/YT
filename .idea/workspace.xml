@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="WD-186 Modified the file">
+    <list default="true" id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="WD-186 Modified the logo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <list id="44973b48-cd56-48be-8b32-f4c6b1d3470b" name="Changes" comment="WD-286" />
     <list id="365d656f-2d9f-49dc-bec8-d1a6bf128ace" name="WD-286 New Research" comment="WD-286 New Research 123" />
@@ -97,12 +96,13 @@
       <option name="presentableId" value="WD-186" />
       <option name="project" value="WD" />
       <option name="type" value="FEATURE" />
-      <updated>1709915658711</updated>
+      <updated>1710250132093</updated>
       <workItem from="1709046669332" duration="1917000" />
       <workItem from="1709225129638" duration="1679000" />
       <workItem from="1709304128060" duration="628000" />
       <workItem from="1709637846082" duration="621000" />
       <workItem from="1709913213517" duration="599000" />
+      <workItem from="1710247851576" duration="1702000" />
     </task>
     <option name="createBranch" value="false" />
     <servers>
@@ -122,7 +122,8 @@
     <MESSAGE value="WD-186 Add notification center" />
     <MESSAGE value="WD-186 Add notification center 123" />
     <MESSAGE value="WD-186 Modified the file" />
-    <option name="LAST_COMMIT_MESSAGE" value="WD-186 Modified the file" />
+    <MESSAGE value="WD-186 Modified the logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="WD-186 Modified the logo" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
