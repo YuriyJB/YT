@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="WD-186 Modified the logo">
+    <list default="true" id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="WD-186 Modified the landing page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="44973b48-cd56-48be-8b32-f4c6b1d3470b" name="Changes" comment="WD-286" />
@@ -96,13 +96,14 @@
       <option name="presentableId" value="WD-186" />
       <option name="project" value="WD" />
       <option name="type" value="FEATURE" />
-      <updated>1710250132093</updated>
+      <updated>1710422519285</updated>
       <workItem from="1709046669332" duration="1917000" />
       <workItem from="1709225129638" duration="1679000" />
       <workItem from="1709304128060" duration="628000" />
       <workItem from="1709637846082" duration="621000" />
       <workItem from="1709913213517" duration="599000" />
       <workItem from="1710247851576" duration="1702000" />
+      <workItem from="1710422433006" duration="1293000" />
     </task>
     <option name="createBranch" value="false" />
     <servers>
@@ -123,7 +124,8 @@
     <MESSAGE value="WD-186 Add notification center 123" />
     <MESSAGE value="WD-186 Modified the file" />
     <MESSAGE value="WD-186 Modified the logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="WD-186 Modified the logo" />
+    <MESSAGE value="WD-186 Modified the landing page" />
+    <option name="LAST_COMMIT_MESSAGE" value="WD-186 Modified the landing page" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
