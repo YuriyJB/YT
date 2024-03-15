@@ -1,1 +1,1 @@
-Landing page updated!
+Ready to publish
