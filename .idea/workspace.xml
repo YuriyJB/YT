@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="    ART-15 Update the website!">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="    ART-15 Update the website!!!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +144,7 @@
       <option name="presentableId" value="Art-15" />
       <option name="project" value="Art" />
       <option name="type" value="BUG" />
-      <updated>1713361252867</updated>
+      <updated>1713364259749</updated>
     </task>
     <option name="createBranch" value="false" />
     <servers>
@@ -173,7 +173,8 @@
     <MESSAGE value="ART-15 Update the website" />
     <MESSAGE value="    ART-15 Update the website" />
     <MESSAGE value="    ART-15 Update the website!" />
-    <option name="LAST_COMMIT_MESSAGE" value="    ART-15 Update the website!" />
+    <MESSAGE value="    ART-15 Update the website!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="    ART-15 Update the website!!!" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
