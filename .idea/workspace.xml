@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="    ART-15 Update the website!!!">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +95,9 @@
       <updated>1709045866838</updated>
       <workItem from="1709045618059" duration="249000" />
       <workItem from="1713371929745" duration="162000" />
-      <workItem from="1714122587028" duration="685000" />
+      <workItem from="1714122587028" duration="1298000" />
+      <workItem from="1714733457807" duration="599000" />
+      <workItem from="1715780805553" duration="657000" />
     </task>
     <task id="WD-286" summary="New Research">
       <created>1707315126679</created>
@@ -146,7 +148,7 @@
       <option name="presentableId" value="Art-15" />
       <option name="project" value="Art" />
       <option name="type" value="BUG" />
-      <updated>1714122618407</updated>
+      <updated>1714132545385</updated>
     </task>
     <option name="createBranch" value="false" />
     <servers>
