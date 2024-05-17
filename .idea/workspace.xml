@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="    ART-15 Update the website!!!!!">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="    WD-183 Update the website!!!!!">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +80,7 @@
     "timeTracker.issueId": "Art-15",
     "timeTracker.issueIdReadable": "Art-15",
     "timeTracker.pausedTime": "0",
-    "timeTracker.query": "",
+    "timeTracker.query": "WD-183",
     "timeTracker.recordedTime": "0",
     "timeTracker.scheduledPeriod": "19:00:0",
     "timeTracker.startTime": "1715944950619",
@@ -103,7 +103,7 @@
       <workItem from="1715780805553" duration="1897000" />
       <workItem from="1715861115722" duration="100000" />
       <workItem from="1715874938999" duration="600000" />
-      <workItem from="1715944946858" duration="913000" />
+      <workItem from="1715944946858" duration="1832000" />
     </task>
     <task id="WD-286" summary="New Research">
       <created>1707315126679</created>
@@ -124,7 +124,7 @@
       <option name="presentableId" value="WD-186" />
       <option name="project" value="WD" />
       <option name="type" value="FEATURE" />
-      <updated>1715944749878</updated>
+      <updated>1715946634875</updated>
       <workItem from="1709046669332" duration="1917000" />
       <workItem from="1709225129638" duration="1679000" />
       <workItem from="1709304128060" duration="628000" />
@@ -157,9 +157,19 @@
       <option name="type" value="BUG" />
       <updated>1715861664277</updated>
     </task>
+    <task id="WD-183" summary="Add feedback form">
+      <created>1664544975595</created>
+      <option name="issue" value="true" />
+      <url>https://bigsur.youtrack.cloud/issue/WD-183</url>
+      <option name="number" value="183" />
+      <option name="presentableId" value="WD-183" />
+      <option name="project" value="WD" />
+      <updated>1715948031057</updated>
+    </task>
     <option name="createBranch" value="false" />
     <servers>
       <YouTrack url="https://bigsur.youtrack.cloud">
+        <option name="defaultSearch" value="WD-183" />
         <username>random</username>
       </YouTrack>
     </servers>
@@ -186,7 +196,9 @@
     <MESSAGE value="    ART-15 Update the website!" />
     <MESSAGE value="    ART-15 Update the website!!!" />
     <MESSAGE value="    ART-15 Update the website!!!!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="    ART-15 Update the website!!!!!" />
+    <MESSAGE value="    WD-186 Update the website!!!!!" />
+    <MESSAGE value="    WD-183 Update the website!!!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="    WD-183 Update the website!!!!!" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
