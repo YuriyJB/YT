@@ -60,6 +60,9 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.keymap",
     "spentTimePerTaskStorage.store": "{}",
     "timeTracker.activityTracker": "null",
@@ -71,16 +74,16 @@
     "timeTracker.isPaused": "false",
     "timeTracker.isPostAfterCommitEnabled": "false",
     "timeTracker.isPostedScheduled": "true",
-    "timeTracker.isRunning": "true",
+    "timeTracker.isRunning": "false",
     "timeTracker.isScheduledEnabled": "false",
     "timeTracker.isWhenProjectClosedEnabled": "false",
     "timeTracker.issueId": "Art-15",
     "timeTracker.issueIdReadable": "Art-15",
-    "timeTracker.pausedTime": "1",
+    "timeTracker.pausedTime": "0",
     "timeTracker.query": "",
     "timeTracker.recordedTime": "0",
     "timeTracker.scheduledPeriod": "19:00:0",
-    "timeTracker.startTime": "1715861236386",
+    "timeTracker.startTime": "1715944950619",
     "timeTracker.timeInMills": "0",
     "timeTracker.type": "Development",
     "vue.rearranger.settings.migration": "true"
@@ -88,7 +91,7 @@
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task id="Default" summary="Default task">
+    <task active="true" id="Default" summary="Default task">
       <created>1707322521693</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -99,6 +102,8 @@
       <workItem from="1714733457807" duration="599000" />
       <workItem from="1715780805553" duration="1897000" />
       <workItem from="1715861115722" duration="100000" />
+      <workItem from="1715874938999" duration="600000" />
+      <workItem from="1715944946858" duration="913000" />
     </task>
     <task id="WD-286" summary="New Research">
       <created>1707315126679</created>
@@ -110,15 +115,16 @@
       <updated>1709046668699</updated>
       <workItem from="1709045867800" duration="800000" />
     </task>
-    <task id="WD-186" summary="Add notification center">
+    <task id="WD-186" summary="Website displays notifications for upcoming events and talks">
       <changelist id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="" />
       <created>1664545081301</created>
       <option name="issue" value="true" />
-      <url>https://ytdemoeng.youtrack.cloud/issue/WD-186</url>
+      <url>https://bigsur.youtrack.cloud/issue/WD-186</url>
       <option name="number" value="186" />
       <option name="presentableId" value="WD-186" />
       <option name="project" value="WD" />
-      <updated>1712159764014</updated>
+      <option name="type" value="FEATURE" />
+      <updated>1715944749878</updated>
       <workItem from="1709046669332" duration="1917000" />
       <workItem from="1709225129638" duration="1679000" />
       <workItem from="1709304128060" duration="628000" />
@@ -141,8 +147,7 @@
       <option name="project" value="Art" />
       <updated>1710529038715</updated>
     </task>
-    <task active="true" id="Art-15" summary="Add new characters to the Level 2 landing page ">
-      <changelist id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="    ART-15 Update the website!!!!!" />
+    <task id="Art-15" summary="Add new characters to the Level 2 landing page ">
       <created>1710529943175</created>
       <option name="issue" value="true" />
       <url>https://ytdemoeng.youtrack.cloud/issue/Art-15</url>
@@ -150,12 +155,11 @@
       <option name="presentableId" value="Art-15" />
       <option name="project" value="Art" />
       <option name="type" value="BUG" />
-      <updated>1715861215070</updated>
-      <workItem from="1715861215858" duration="286000" />
+      <updated>1715861664277</updated>
     </task>
     <option name="createBranch" value="false" />
     <servers>
-      <YouTrack url="https://ytdemoeng.youtrack.cloud">
+      <YouTrack url="https://bigsur.youtrack.cloud">
         <username>random</username>
       </YouTrack>
     </servers>
