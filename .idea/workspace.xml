@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="    WD-183 Update the website!!!!!" />
+    <list default="true" id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="    WD-183 Update the website!!!!!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,13 +78,13 @@
     "timeTracker.isRunning": "false",
     "timeTracker.isScheduledEnabled": "false",
     "timeTracker.isWhenProjectClosedEnabled": "false",
-    "timeTracker.issueId": "Art-15",
-    "timeTracker.issueIdReadable": "Art-15",
+    "timeTracker.issueId": "WD-186",
+    "timeTracker.issueIdReadable": "WD-186",
     "timeTracker.pausedTime": "0",
     "timeTracker.query": "WD-183",
     "timeTracker.recordedTime": "0",
     "timeTracker.scheduledPeriod": "19:00:0",
-    "timeTracker.startTime": "1715944950619",
+    "timeTracker.startTime": "1716560480373",
     "timeTracker.timeInMills": "0",
     "timeTracker.type": "Development",
     "vue.rearranger.settings.migration": "true"
@@ -89,11 +92,11 @@
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
+    <task id="Default" summary="Default task">
       <created>1707322521693</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1715861215069</updated>
+      <updated>1716560468752</updated>
       <workItem from="1709045618059" duration="249000" />
       <workItem from="1713371929745" duration="162000" />
       <workItem from="1714122587028" duration="1298000" />
@@ -102,6 +105,9 @@
       <workItem from="1715861115722" duration="100000" />
       <workItem from="1715874938999" duration="600000" />
       <workItem from="1715944946858" duration="3728000" />
+      <workItem from="1716464286587" duration="744000" />
+      <workItem from="1716488002418" duration="2000" />
+      <workItem from="1716536741844" duration="641000" />
     </task>
     <task id="WD-286" summary="New Research">
       <created>1707315126679</created>
@@ -113,7 +119,7 @@
       <updated>1709046668699</updated>
       <workItem from="1709045867800" duration="800000" />
     </task>
-    <task id="WD-186" summary="Website displays notifications for upcoming events and talks">
+    <task active="true" id="WD-186" summary="Website displays notifications for upcoming events and talks">
       <changelist id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="" />
       <created>1664545081301</created>
       <option name="issue" value="true" />
@@ -121,8 +127,7 @@
       <option name="number" value="186" />
       <option name="presentableId" value="WD-186" />
       <option name="project" value="WD" />
-      <option name="type" value="FEATURE" />
-      <updated>1715946634875</updated>
+      <updated>1716560468752</updated>
       <workItem from="1709046669332" duration="1917000" />
       <workItem from="1709225129638" duration="1679000" />
       <workItem from="1709304128060" duration="628000" />
@@ -135,6 +140,7 @@
       <workItem from="1711540845873" duration="86000" />
       <workItem from="1711630493056" duration="291000" />
       <workItem from="1712159472641" duration="291000" />
+      <workItem from="1716560468944" duration="44000" />
     </task>
     <task id="Art-6" summary="Design UI Elements for the Game Menu">
       <created>1710429110769</created>
@@ -162,12 +168,12 @@
       <option name="number" value="183" />
       <option name="presentableId" value="WD-183" />
       <option name="project" value="WD" />
-      <updated>1715960918611</updated>
+      <updated>1716464420834</updated>
     </task>
     <option name="createBranch" value="false" />
     <servers>
       <YouTrack url="https://bigsur.youtrack.cloud">
-        <option name="defaultSearch" value="WD-183" />
+        <option name="defaultSearch" value="" />
         <username>random</username>
       </YouTrack>
     </servers>
