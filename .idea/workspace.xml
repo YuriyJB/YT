@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="    WD-186 Update the website!" />
+    <list default="true" id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="    WD-186 Update the website!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,48 +53,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
-    &quot;spentTimePerTaskStorage.store&quot;: &quot;{}&quot;,
-    &quot;timeTracker.activityTracker&quot;: &quot;null&quot;,
-    &quot;timeTracker.comment&quot;: &quot;&quot;,
-    &quot;timeTracker.inactivityPeriodInMills&quot;: &quot;600000&quot;,
-    &quot;timeTracker.isAutoTrackingEnable&quot;: &quot;false&quot;,
-    &quot;timeTracker.isAutoTrackingTemporaryDisabled&quot;: &quot;false&quot;,
-    &quot;timeTracker.isManualTrackingEnable&quot;: &quot;false&quot;,
-    &quot;timeTracker.isPaused&quot;: &quot;true&quot;,
-    &quot;timeTracker.isPostAfterCommitEnabled&quot;: &quot;false&quot;,
-    &quot;timeTracker.isPostedScheduled&quot;: &quot;true&quot;,
-    &quot;timeTracker.isRunning&quot;: &quot;false&quot;,
-    &quot;timeTracker.isScheduledEnabled&quot;: &quot;false&quot;,
-    &quot;timeTracker.isWhenProjectClosedEnabled&quot;: &quot;false&quot;,
-    &quot;timeTracker.issueId&quot;: &quot;WD-186&quot;,
-    &quot;timeTracker.issueIdReadable&quot;: &quot;WD-186&quot;,
-    &quot;timeTracker.pausedTime&quot;: &quot;0&quot;,
-    &quot;timeTracker.query&quot;: &quot;demoi-8&quot;,
-    &quot;timeTracker.recordedTime&quot;: &quot;0&quot;,
-    &quot;timeTracker.scheduledPeriod&quot;: &quot;19:00:0&quot;,
-    &quot;timeTracker.startTime&quot;: &quot;1724064755422&quot;,
-    &quot;timeTracker.timeInMills&quot;: &quot;0&quot;,
-    &quot;timeTracker.type&quot;: &quot;Development&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "spentTimePerTaskStorage.store": "{WD-186=7720066}",
+    "timeTracker.activityTracker": "com.github.jk1.ytplugin.timeTracker.ActivityTracker@20fc7f6f",
+    "timeTracker.comment": "",
+    "timeTracker.inactivityPeriodInMills": "600000",
+    "timeTracker.isAutoTrackingEnable": "true",
+    "timeTracker.isAutoTrackingTemporaryDisabled": "false",
+    "timeTracker.isManualTrackingEnable": "false",
+    "timeTracker.isPaused": "false",
+    "timeTracker.isPostAfterCommitEnabled": "false",
+    "timeTracker.isPostedScheduled": "false",
+    "timeTracker.isRunning": "true",
+    "timeTracker.isScheduledEnabled": "false",
+    "timeTracker.isWhenProjectClosedEnabled": "false",
+    "timeTracker.issueId": "WD-186",
+    "timeTracker.issueIdReadable": "WD-186",
+    "timeTracker.pausedTime": "775818555",
+    "timeTracker.query": "demoi-8",
+    "timeTracker.recordedTime": "22",
+    "timeTracker.scheduledPeriod": "19:00:0",
+    "timeTracker.startTime": "1739971023340",
+    "timeTracker.timeInMills": "1338805",
+    "timeTracker.type": "Development",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -138,7 +140,7 @@
       <option name="number" value="186" />
       <option name="presentableId" value="WD-186" />
       <option name="project" value="WD" />
-      <updated>1726223962435</updated>
+      <updated>1739971023340</updated>
       <workItem from="1709046669332" duration="1917000" />
       <workItem from="1709225129638" duration="1679000" />
       <workItem from="1709304128060" duration="628000" />
@@ -175,7 +177,21 @@
       <workItem from="1726153311271" duration="17000" />
       <workItem from="1726153354978" duration="870000" />
       <workItem from="1726223697359" duration="183000" />
-      <workItem from="1726223884987" duration="1510000" />
+      <workItem from="1726223884987" duration="2775000" />
+      <workItem from="1726559525551" duration="1317000" />
+      <workItem from="1727106805050" duration="1444000" />
+      <workItem from="1727433674835" duration="1546000" />
+      <workItem from="1728295049297" duration="1226000" />
+      <workItem from="1729600473617" duration="699000" />
+      <workItem from="1730894051976" duration="621000" />
+      <workItem from="1736342376342" duration="1348000" />
+      <workItem from="1736348065157" duration="6000" />
+      <workItem from="1736357653793" duration="694000" />
+      <workItem from="1736433776494" duration="2476000" />
+      <workItem from="1737476023583" duration="1447000" />
+      <workItem from="1738154749678" duration="1219000" />
+      <workItem from="1739970393881" duration="1364000" />
+      <workItem from="1740744498727" duration="3293000" />
     </task>
     <task id="Art-6" summary="Design UI Elements for the Game Menu">
       <created>1710429110769</created>
@@ -248,7 +264,7 @@
             <State>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="Show.Git.Branches" value="false" />
+                  <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
             </State>
