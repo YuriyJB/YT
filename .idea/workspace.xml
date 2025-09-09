@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="    WD-186 Update the website!!!">
+    <list default="true" id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="Merge remote-tracking branch 'origin/main'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +19,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -70,14 +69,14 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
-    "spentTimePerTaskStorage.store": "{WD-186=9199028}",
-    "timeTracker.activityTracker": "com.github.jk1.ytplugin.timeTracker.ActivityTracker@5b543920",
+    "spentTimePerTaskStorage.store": "{WD-186=11855198}",
+    "timeTracker.activityTracker": "com.github.jk1.ytplugin.timeTracker.ActivityTracker@56b968fc",
     "timeTracker.comment": "",
     "timeTracker.inactivityPeriodInMills": "600000",
     "timeTracker.isAutoTrackingEnable": "true",
     "timeTracker.isAutoTrackingTemporaryDisabled": "false",
     "timeTracker.isManualTrackingEnable": "false",
-    "timeTracker.isPaused": "false",
+    "timeTracker.isPaused": "true",
     "timeTracker.isPostAfterCommitEnabled": "false",
     "timeTracker.isPostedScheduled": "false",
     "timeTracker.isRunning": "true",
@@ -85,12 +84,12 @@
     "timeTracker.isWhenProjectClosedEnabled": "false",
     "timeTracker.issueId": "WD-186",
     "timeTracker.issueIdReadable": "WD-186",
-    "timeTracker.pausedTime": "2428733",
+    "timeTracker.pausedTime": "4376834",
     "timeTracker.query": "demoi-8",
-    "timeTracker.recordedTime": "9",
+    "timeTracker.recordedTime": "29",
     "timeTracker.scheduledPeriod": "19:00:0",
-    "timeTracker.startTime": "1743674467446",
-    "timeTracker.timeInMills": "599999",
+    "timeTracker.startTime": "1756201797879",
+    "timeTracker.timeInMills": "1796028",
     "timeTracker.type": "Development",
     "vue.rearranger.settings.migration": "true"
   }
@@ -140,7 +139,7 @@
       <option name="number" value="186" />
       <option name="presentableId" value="WD-186" />
       <option name="project" value="WD" />
-      <updated>1743674467446</updated>
+      <updated>1756203370467</updated>
       <workItem from="1709046669332" duration="1917000" />
       <workItem from="1709225129638" duration="1679000" />
       <workItem from="1709304128060" duration="628000" />
@@ -194,6 +193,10 @@
       <workItem from="1740744498727" duration="3293000" />
       <workItem from="1742829323144" duration="311000" />
       <workItem from="1743674378652" duration="702000" />
+      <workItem from="1744277362091" duration="790000" />
+      <workItem from="1744293687270" duration="600000" />
+      <workItem from="1754388133622" duration="1869000" />
+      <workItem from="1756201705092" duration="2247000" />
     </task>
     <task id="Art-6" summary="Design UI Elements for the Game Menu">
       <created>1710429110769</created>
@@ -247,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719476463029</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1756201797864</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756201797880</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <option name="createBranch" value="false" />
     <servers>
       <YouTrack url="https://bigsur.youtrack.cloud">
@@ -276,7 +287,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="WD-286" />
     <MESSAGE value="WD-286 New Research" />
     <MESSAGE value="WD-286 New Research 1" />
     <MESSAGE value="WD-186 Add notification center" />
@@ -300,7 +310,9 @@
     <MESSAGE value="    WD-186 Update the website" />
     <MESSAGE value="    WD-186 Update the website!" />
     <MESSAGE value="    WD-186 Update the website!!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="    WD-186 Update the website!!!" />
+    <MESSAGE value="    WD-186 Update the website." />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
