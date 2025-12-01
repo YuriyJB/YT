@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="Merge remote-tracking branch 'origin/main'">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7f399a54-99c2-4e94-9706-c7cb34ce6659" name="WD-186 Add notification center" comment="Merge remote-tracking branch 'origin/main'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,8 +67,8 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
-    "spentTimePerTaskStorage.store": "{WD-186=13718596}",
-    "timeTracker.activityTracker": "com.github.jk1.ytplugin.timeTracker.ActivityTracker@49058931",
+    "spentTimePerTaskStorage.store": "{WD-186=19209442}",
+    "timeTracker.activityTracker": "com.github.jk1.ytplugin.timeTracker.ActivityTracker@1cba7f35",
     "timeTracker.comment": "",
     "timeTracker.inactivityPeriodInMills": "600000",
     "timeTracker.isAutoTrackingEnable": "true",
@@ -84,12 +82,12 @@
     "timeTracker.isWhenProjectClosedEnabled": "false",
     "timeTracker.issueId": "WD-186",
     "timeTracker.issueIdReadable": "WD-186",
-    "timeTracker.pausedTime": "6051134334",
+    "timeTracker.pausedTime": "1468",
     "timeTracker.query": "demoi-8",
-    "timeTracker.recordedTime": "87",
+    "timeTracker.recordedTime": "0",
     "timeTracker.scheduledPeriod": "19:00:0",
-    "timeTracker.startTime": "1757429113892",
-    "timeTracker.timeInMills": "5278717",
+    "timeTracker.startTime": "1764604624444",
+    "timeTracker.timeInMills": "0",
     "timeTracker.type": "Development",
     "vue.rearranger.settings.migration": "true"
   }
@@ -139,7 +137,7 @@
       <option name="number" value="186" />
       <option name="presentableId" value="WD-186" />
       <option name="project" value="WD" />
-      <updated>1763468470176</updated>
+      <updated>1764602093810</updated>
       <workItem from="1709046669332" duration="1917000" />
       <workItem from="1709225129638" duration="1679000" />
       <workItem from="1709304128060" duration="628000" />
@@ -200,6 +198,7 @@
       <workItem from="1757429048058" duration="852000" />
       <workItem from="1758114209684" duration="613000" />
       <workItem from="1763467884245" duration="614000" />
+      <workItem from="1764604362151" duration="344000" />
     </task>
     <task id="Art-6" summary="Design UI Elements for the Game Menu">
       <created>1710429110769</created>
@@ -269,7 +268,39 @@
       <option name="project" value="LOCAL" />
       <updated>1757429113892</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1764604445853</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1764604445869</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1764604574605</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1764604574617</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1764604581628</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1764604581640</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1764604624438</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1764604624444</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <option name="createBranch" value="false" />
     <servers>
       <YouTrack url="https://bigsur.youtrack.cloud">
